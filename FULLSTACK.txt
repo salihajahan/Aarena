@@ -1,0 +1,1 @@
+Fullstack is a software building which include front-end and back-end of the web application.
